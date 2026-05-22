@@ -1,0 +1,2 @@
+Name,Artifactid,Plugin-Package,Versión,Autor,Email,WebSite,Description,Dependencies,DateTime,Enabled
+JettraWebExample,jettrawebexample,com.jettrapluginstore.jettrawebexample,1.0-SNAPSHOT,avbravo,avbravo@example.com,https://github.com/avbravo,Módulo interactivo para gestión avanzada de facturas en Jettra.,jettraServer, JettraReport, JettraWUI,2026-05-21 21:31:39,true
