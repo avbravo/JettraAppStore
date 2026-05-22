@@ -1,10 +1,3 @@
-# Jettra Plugins Registered Handlers Database
-
-## Plugin: jettrawebexample | Version: 1.0-SNAPSHOT
-*No handlers registered.*
-
-## Plugin: jettrawebexample | Version: 1.0-SNAPSHOT
-```java
 // usando server.addHandler(). Esto permite que JettraServer reconozca las rutas
 server.addHandler("/error", io.jettra.wui.complex.ErrorPage.class);
 server.addHandler("/", LoginPage.class);
@@ -103,5 +96,3 @@ server.addHandler("/datatableeditablecrudview", DatatableEditableCrudViewPage.cl
 server.addHandler("/hidden", HiddenPage.class);
 server.addHandler("/noeditable", NoEditablePage.class);
 server.addHandler("/viewdatatable", ViewDataTablePage.class);
-```
-
